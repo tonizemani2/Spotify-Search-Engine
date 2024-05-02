@@ -87,8 +87,8 @@ def main():
     st.title("🔍 Spotify Search Engine")
     st.markdown("Find new songs by searching with different tags.")
 
-    file1_path = "spotify_search_engine/data/half1.csv"
-    file2_path = "spotify_search_engine/data/half2.csv"
+    file1_path = "data/half1.csv"
+    file2_path = "data/half2.csv"
 
     # Read the two CSV files into DataFrames
     df1 = pd.read_csv(file1_path)
