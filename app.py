@@ -72,7 +72,7 @@ def main():
 
     from PIL import Image
 
-    im = Image.open('spotify_search_engine/images/download (1).jpg')
+    im = Image.open('images/download (1).jpg')
 
     st.set_page_config(page_title="Spotify Search Engine", page_icon=im, layout="wide")
 
