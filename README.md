@@ -1,4 +1,3 @@
-```markdown
 # Spotify Search Engine 🎵
 
 Welcome to the Spotify Search Engine! This Streamlit app allows users to search and explore songs from a sample Spotify dataset. It uses a variety of tags to help you find the perfect track and displays results with Spotify song embeds directly in the app.
@@ -51,4 +50,4 @@ Distributed under the MIT License.
 
 
 Enjoy searching your favorite tunes! 🎉🎶
-```
+
