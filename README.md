@@ -1,6 +1,6 @@
 # Spotify Search Engine 🎵
 
-Welcome to the Spotify Search Engine! This Streamlit app allows users to search and explore songs from a sample Spotify dataset. It uses a variety of tags to help you find the perfect track and displays results with Spotify song embeds directly in the app.
+This Streamlit app allows you to search and explore songs from a sample Spotify dataset. It uses a variety of tags to help you find the right track and displays results with Spotify song embeds directly.
 
 ## Features 🌟
 
@@ -11,12 +11,6 @@ Welcome to the Spotify Search Engine! This Streamlit app allows users to search 
 ## Get Started 🚀
 
 To get started with this project, follow these simple steps:
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Python 3.6 or higher
-- pip
 
 ### Installation
 
